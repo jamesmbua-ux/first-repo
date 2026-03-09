@@ -1,2 +1,3 @@
 # first-repo
-amateur  
+Hey Chef MJ website 
+index.html
